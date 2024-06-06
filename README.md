@@ -7,21 +7,19 @@
 <h3 align="center" style="font-family: 'Playfair Display', serif;">A Boston-based passionate data storyteller specializing in engineering, analytics, BI, and machine learning.</h3>
 
 <br/>
-<div style="display: flex; align-items: flex-start; justify-content: space-between;">
-  <div style="flex: 1; padding-right: 20px;">
- 
- 🔭 I’m currently working on **a Formula One Azure Data pipeline and Analytics project**
- 
- 🌱 I’m currently learning **Docker, Supabase, AWS**
-
-💬 Ask me about **Data Engineering, Data Analytics, Business Intelligence (BI), Data Science/ML, and tools like Azure Data Factory, Databricks, SQL, Python, and Tableau**
-
-⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
- </div>
-<div>
-    <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXZlcGdjZzk4NGsxdTBudzE0NW5zNXR3NjJ3dHVhbXRodGZ4NXlhNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JWuBH9rCO2uZuHBFpm/giphy.gif" alt="Data Nerds GIF" width="300"/>
-  </div>
-</div>
+<table>
+  <tr>
+    <td style="vertical-align: top;">
+      <p>🔭 I’m currently working on <strong>a Formula One Azure Data pipeline and Analytics project</strong></p>
+      <p>🌱 I’m currently learning <strong>Docker, Supabase, AWS</strong></p>
+      <p>💬 Ask me about <strong>Data Engineering, Data Analytics, Business Intelligence (BI), Data Science/ML, and tools like Azure Data Factory, Databricks, SQL, Python, and Tableau</strong></p>
+      <p>⚡ Fun fact <strong>Game of Thrones Night's Watch cloaks are made from Ikea rugs</strong></p>
+    </td>
+    <td style="vertical-align: top;">
+      <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXZlcGdjZzk4NGsxdTBudzE0NW5zNXR3NjJ3dHVhbXRodGZ4NXlhNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JWuBH9rCO2uZuHBFpm/giphy.gif" alt="Data Nerds GIF" width="300"/>
+    </td>
+  </tr>
+</table>
 
 <div align="center"> 
   <a href="mailto:jyeshthaprabhu@gmail.com">
@@ -35,7 +33,7 @@
   </a>
 </div>
 
- <hr/>
+<hr/>
  
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
@@ -50,7 +48,7 @@
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
   <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/jyeshtha1799 /jyeshtha1799/output/github-contribution-grid-snake.svg" />
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/jyeshtha1799/jyeshtha1799/output/github-contribution-grid-snake.svg" />
   
   <br/><br/><br/>
 </div>
